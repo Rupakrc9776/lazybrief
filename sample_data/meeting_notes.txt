@@ -1,0 +1,10 @@
+Project check-in — fictional notes
+
+Maya said the onboarding guide is still confusing for first-time users. The team
+agreed to review the setup steps before the next release. Leo will update the
+Windows installation section by Friday, and Priya will ask two new contributors
+to try the revised guide. The group chose to keep the first-run flow focused on
+one task: turning meeting notes into an action-oriented brief.
+
+The team did not set a release date. They will discuss the user-test feedback at
+the next check-in.
