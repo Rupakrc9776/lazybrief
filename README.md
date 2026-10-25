@@ -151,8 +151,8 @@ python -m compileall -q app.py src tests
 Unit tests mock HTTP. They do not substitute for testing a real local model, and model output is not deterministic.
 
 ## Screenshots
+<img width="1920" height="1140" alt="Screenshot 2026-10-25 111743" src="https://github.com/user-attachments/assets/c593fcc0-d491-4bc1-ae2b-c6bcc3d01f6a" />
 
-Add genuine screenshots from the running app to [`screenshots/`](./screenshots/README.md) before publishing. Do not use mockups as if they were captured app output, and remove any private source text from screenshots.
 
 ## Hacktoberfest Week 3
 
